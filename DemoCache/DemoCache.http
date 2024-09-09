@@ -1,0 +1,6 @@
+@DemoCache_HostAddress = http://localhost:5110
+
+GET {{DemoCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
